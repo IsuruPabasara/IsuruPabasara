@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello there 👋
+- 🌱 I’m currently learning how to analyze data using both statistical learning and machine learning.
+- 👯 I’m looking to collaborate on projects related to the biomedical field.
+- 💬 Ask me about the effects of rTMS on the human brain.
+- 📫 How to reach me: www.linkedin.com/in/isuru-p-rajapakshe
+- ⚡ Fun fact about me: I love jigsaw puzzles 
 <!--
 **IsuruPabasara/IsuruPabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
