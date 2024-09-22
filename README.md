@@ -3,7 +3,6 @@
 - 🔭 Currently working on studying the effects of Repetitive transcranial magnetic stimulation for patients with Major Depressive Disorder.
 - 👯 I love working on engineering problems that makes peoples lives more enjoyable.
 - 📫 How to reach me: www.linkedin.com/in/isuru-p-rajapakshe
-- ⚡ Fun fact about me: I lift metal circles in my spare time.
 <!--
 **IsuruPabasara/IsuruPabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
