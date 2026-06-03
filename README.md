@@ -1,6 +1,4 @@
 ### Hello there 👋
-- 🌱 I am a masters student in Electrical Engineering with focus on Biomedical Engineering.
-- 🔭 Currently working on studying the effects of Repetitive transcranial magnetic stimulation for patients with Major Depressive Disorder.
 - 👯 I love working on engineering problems that makes peoples lives more enjoyable.
 - 📫 How to reach me: www.linkedin.com/in/isuru-p-rajapakshe
 <!--
